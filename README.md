@@ -1,6 +1,6 @@
-Site deployed here: https://datanauts-nasa-space-apps-challenge.github.io/web-ui/
+Site deployed here: https://datanauts-nasa-space-apps-challenge.github.io/frontend/
 
-# web-ui
+# frontend
 
 A desktop tool for comparing lunar landing sites. It opens on a 3D Moon. Zooming in switches to a latitude and longitude grid where sites in view stay marked. Choosing a site fills the screen with a stylized surface render for a selected date: a lunar-day timeline, sunlight, and the direct-to-Earth communication level. Two sites can be compared on the same clock.
 

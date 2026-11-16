@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/web-ui/',
+  base: '/frontend/',
   plugins: [react()],
   server: {
     port: 5173,
